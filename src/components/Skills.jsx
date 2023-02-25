@@ -49,19 +49,19 @@ const Skills = ({darkMode}) => {
                     <Card className="skill-nbcard">
                         <Card.Body>
                             <Card.Title>Programming Languages</Card.Title>
-                            <Card.Text>C Programming, C++, GNU Octave, Python, JavaScript</Card.Text>
+                            <Card.Text>JavaScript, PHP,  Dart, Kotlin, Go, Java, Pascal, GNU Octave, Python</Card.Text>
                         </Card.Body>
                     </Card>
                     <Card className="skill-nbcard">
                         <Card.Body >
                             <Card.Title>Technologies</Card.Title>
-                            <Card.Text>HTML, CSS, Bootstrap, Natural Language Processing, ReactJs, Docker, Cloud Firestore, Django, Django Rest Framework, SQLite</Card.Text>
+                            <Card.Text>Gatsby, SCSS, SASS, Tailwind CSS, Chakra Ui, Material Ui, Redux, HTML, CSS, Bootstrap, Natural Language Processing, ReactJs, Docker, Cloud Firestore, Django, Django Rest Framework</Card.Text>
                         </Card.Body>
                     </Card>
                     <Card className="skill-nbcard">
                         <Card.Body >
                             <Card.Title>Others</Card.Title>
-                            <Card.Text>MS office, Graphic Designing</Card.Text>
+                            <Card.Text>Blender, CorelDraw, Adobe Premier, Graphic Designing</Card.Text>
                         </Card.Body>
                     </Card>
                 </Col>
